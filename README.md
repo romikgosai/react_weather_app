@@ -7,7 +7,7 @@ This is a simple React Native application that fetches and displays weather info
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/react_weather_app.git
+   git clone https://github.com/romikgosai/react_weather_app.git
    cd react_weather_app
    ```
 
